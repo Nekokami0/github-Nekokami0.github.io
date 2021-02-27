@@ -1,0 +1,109 @@
+.fejlec {
+  position: relative;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.fejkep {
+  width: 100%;
+  height: auto;
+  margin: 0px 100px;
+}
+
+.fejszoveg {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  right: 500px;
+  font-size: 50px;
+  color: #222;
+  font-family: "Abril Fatface";
+}
+
+.fejalszoveg {
+  position: absolute;
+  top: 60%;
+  width:100%;
+  right: 270px;
+  text-align: center;
+  font-size: 100px;
+  color: #222;
+  font-family: "Abril Fatface";
+}
+
+.szoveg1 {
+  text-align: center;
+  margin: 0px 400px;
+  text-align: left;
+  font-size: 30px;
+  font-family: "Josefin Sans";
+  margin-top: 100px
+}
+
+ul {
+  list-style-type: square;
+  margin-top: 50px;
+}
+
+.idezet1 {
+  background: #222;
+  color: white;
+  padding: 1px;
+  margin: 0px 350px;
+  margin-top: 100px;
+  text-align: center;
+  font-size: 100px;
+  font-family: "Abril Fatface";
+}
+
+.idezojel {
+  position: absolute;
+  left: 389px;
+  top: 1140px;
+  font-size: 150px;
+  font-family: "Sorts Mill Goudy";
+  color: white;
+}
+
+.mondat2 {
+  text-align: left;
+}
+
+.idezoje2 {
+  position: absolute;
+  left: 380px;
+  top: 2370px;
+  font-size: 150px;
+  font-family: "Sorts Mill Goudy";
+  color: white;
+}
+
+.mondat2szoveg {
+  margin-left: 60px
+}
+
+li {
+  margin: 15px 0px;
+}
+
+.mondat3 {
+  text-align: left;
+}
+
+.idezoje3 {
+  position: absolute;
+  left: 380px;
+  top: 3850px;
+  font-size: 150px;
+  font-family: "Sorts Mill Goudy";
+  color: white;
+}
+
+.csik {
+  background: #222;
+  height: 5px;
+  width: 100%;
+}
